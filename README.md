@@ -1,4 +1,6 @@
-### Hi there 👋 Wellcome to my GitHub!
+### Hi there 👋 Welcome to my GitHub!
+
+[Github.io](https://sheirafenix.github.io/)
 
 <!--
 **SheiraFenix/Sheirafenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
